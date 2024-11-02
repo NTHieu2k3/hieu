@@ -1,1 +1,6 @@
 Alo tôi nay đi chơi không ???
+<<<<<<< HEAD
+
+=======
+Không tôi bận học rồi
+>>>>>>> be4a73ea5077a204778ca23364448bc97beace11
